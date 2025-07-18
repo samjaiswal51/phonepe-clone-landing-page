@@ -76,7 +76,7 @@ Simply open index.html in your preferred browser.
 ---
 
 ## ⚠️ Note
-This calculator is a front-end only project meant for learning and demonstration purposes. Feel free to fork and improve it!
+This is a front-end only project meant for learning and demonstration purposes. Feel free to fork and improve it!
 
 ---
 ### ⭐ Don’t forget to Star this repo if you like it!
