@@ -12,7 +12,7 @@
 ## 🌐 Live Demo
 
 🖥️ **Check it Live:**  
-🔗 [Live Demo Link Coming Soon](#)
+🔗 https://phonepe-clone-page.vercel.app/
 
 ---
 
@@ -61,3 +61,22 @@ This is a **responsive clone of the PhonePe UPI app's homepage** built using **H
 ```bash
 git clone https://github.com/your-username/phonepe-clone-landing-page.git
 ```
+### 2️⃣ Navigate to the Project Folder
+```bash
+cd phonepe-clone-landing-page
+```
+### 3️⃣ Open in Browser
+Simply open index.html in your preferred browser.
+
+---
+
+## 🙌 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/samarth-jaiswal-72b67b313/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:samjaiswal51@gmail.com"> <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+---
+
+## ⚠️ Note
+This calculator is a front-end only project meant for learning and demonstration purposes. Feel free to fork and improve it!
+
+---
+### ⭐ Don’t forget to Star this repo if you like it!
